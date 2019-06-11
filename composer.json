@@ -8,6 +8,7 @@
         "wordpress service provider"
     ],
     "require" : {
+        "sproutwp/sprout_interfaces" : "*@dev",
         "sproutwp/sprout_privileges" : "*@dev"
     },
     "autoload": {
