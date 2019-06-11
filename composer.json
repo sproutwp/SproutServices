@@ -15,5 +15,7 @@
         "psr-4": {
             "SproutServices\\": ""
         }
-    }
+    },
+    "minimum-stability" : "dev",
+    "prefer-stable": true
 }
