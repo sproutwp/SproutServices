@@ -6,7 +6,7 @@
  */
 namespace SproutServices\Wrappers;
 
-use SproutHelpers\Privileges;
+use SproutPrivileges\Privileges;
 
 /**
  * A collection of wrapper, final functions that any developer willing to use the SproutServices module
