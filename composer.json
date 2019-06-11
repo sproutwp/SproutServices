@@ -7,6 +7,9 @@
         "service provider",
         "wordpress service provider"
     ],
+    "require" : {
+        "sproutwp/sprout_privileges" : "*@dev"
+    },
     "autoload": {
         "psr-4": {
             "SproutServices\\": ""
