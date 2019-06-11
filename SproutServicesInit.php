@@ -4,11 +4,11 @@
  * @subpackage Sprout/SproutServices
  * @since 1.0.0
  */
-namespace Sprout\SproutServices;
+namespace SproutServices;
 
-use Sprout\SproutHelpers\Privileges;
+use SproutHelpers\Privileges;
 
-use Sprout\SproutInterfaces\ModuleInterface;
+use SproutInterfaces\ModuleInterface;
 
 final class SproutServicesInit implements ModuleInterface
 {
