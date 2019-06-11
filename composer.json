@@ -1,0 +1,15 @@
+{
+    "name" : "sprout_boys/sprout_services",
+    "description" : "A service provider used by Sprout",
+    "version" : "1.0.0-dev",
+    "keywords" : [
+        "service",
+        "service provider",
+        "wordpress service provider"
+    ],
+    "autoload": {
+        "psr-4": {
+            "SproutServices\\": ""
+        }
+    }
+}
