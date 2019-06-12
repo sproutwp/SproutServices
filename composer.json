@@ -1,5 +1,5 @@
 {
-    "name" : "sproutwp/SproutServices",
+    "name" : "sproutwp/sprout_services",
     "description" : "A service container & provider used by Sprout",
     "version" : "1.0.0-dev",
     "keywords" : [
