@@ -8,8 +8,8 @@
         "wordpress service provider"
     ],
     "require" : {
-        "sproutwp/SproutInterfaces" : "*@dev",
-        "sproutwp/SproutPrivileges" : "*@dev"
+        "sproutwp/sprout_interfaces" : "*@dev",
+        "sproutwp/sprout_privileges" : "*@dev"
     },
     "autoload": {
         "psr-4": {
