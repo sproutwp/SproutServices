@@ -1,5 +1,5 @@
 # Sprout Services
-_Please run this after init:10_
+_The module, by default, loads on the `init` hook with a priority of `10`, if you launch it too early, it will not be compatible with other Sprout Modules._
 
 A services container &amp; provider used by the Sprout Framework
 
