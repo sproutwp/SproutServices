@@ -1,13 +1,13 @@
 <?php
 /**
  * @package Sprout
- * @subpackage Sprout/SproutServices
+ * @subpackage SproutServices
  * @since 1.0.0
  */
-namespace SproutServices;
+namespace Sprout\SproutServices;
 
-use SproutServices\Interfaces\IdentifierInterface;
-use SproutServices\Interfaces\ParserInterface;
+use Sprout\SproutServices\Interfaces\IdentifierInterface;
+use Sprout\SproutServices\Interfaces\ParserInterface;
 
 /**
  * Parser class that deals with checking two objects when the system tries to overwrite a service, as determined

@@ -1,10 +1,10 @@
 <?php
 /**
  * @package Sprout
- * @subpackage Sprout/SproutServices\Interfaces
+ * @subpackage SproutServices\Interfaces
  * @since 1.0.0
  */
-namespace SproutServices\Interfaces;
+namespace Sprout\SproutServices\Interfaces;
 
 /**
  * Interface that decides the methods that each IdentityProvider object needs to implement.

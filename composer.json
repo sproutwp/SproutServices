@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "SproutServices\\": ""
+            "Sprout\\SproutServices\\": ""
         }
     },
     "minimum-stability" : "dev",

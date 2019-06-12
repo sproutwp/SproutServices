@@ -1,12 +1,12 @@
 <?php
 /**
  * @package Sprout
- * @subpackage Sprout/SproutServices/Wrappers
+ * @subpackage SproutServices/Wrappers
  * @since 1.0.0
  */
-namespace SproutServices\Wrappers;
+namespace Sprout\SproutServices\Wrappers;
 
-use SproutPrivileges\Privileges;
+use Sprout\SproutPrivileges\Privileges;
 
 /**
  * A collection of wrapper, final functions that any developer willing to use the SproutServices module

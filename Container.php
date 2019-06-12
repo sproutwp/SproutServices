@@ -1,12 +1,12 @@
 <?php
 /**
  * @package Sprout
- * @subpackage Sprout/SproutServices
+ * @subpackage SproutServices
  * @since 1.0.0
  */
-namespace SproutServices;
+namespace Sprout\SproutServices;
 
-use SproutServices\Interfaces\ContainerInterface;
+use Sprout\SproutServices\Interfaces\ContainerInterface;
 
 /**
  * Class that handles the storage of services.

@@ -1,12 +1,12 @@
 <?php
 /**
  * @package Sprout
- * @subpackage Sprout/SproutServices
+ * @subpackage SproutServices
  * @since 1.0.0
  */
-namespace SproutServices;
+namespace Sprout\SproutServices;
 
-use SproutServices\Interfaces\IdentityProviderInterface;
+use Sprout\SproutServices\Interfaces\IdentityProviderInterface;
 
 /**
  * Class that handles the creation / providing of information and identity about an object.

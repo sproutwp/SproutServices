@@ -4,11 +4,11 @@
  * @subpackage Sprout/SproutServices\Bridges
  * @since 1.0.0
  */
-namespace SproutServices\Bridges;
+namespace Sprout\SproutServices\Bridges;
 
 
-use SproutCache\Graph\Wrappers\SproutCacheGraphWrappers as GraphWrappers;
-use SproutCache\Graph\Helpers\CacheGraphHelpers as GraphHelpers;
+use Sprout\SproutCache\Graph\Wrappers\SproutCacheGraphWrappers as GraphWrappers;
+use Sprout\SproutCache\Graph\Helpers\CacheGraphHelpers as GraphHelpers;
 
 final class ServiceDataBridge
 {

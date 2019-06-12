@@ -1,14 +1,14 @@
 <?php
 /**
  * @package Sprout
- * @subpackage Sprout/SproutServices
+ * @subpackage SproutServices
  * @since 1.0.0
  */
-namespace SproutServices;
+namespace Sprout\SproutServices;
 
-use SproutServices\Interfaces\ContainerInterface;
-use SproutServices\Interfaces\IdentityProviderInterface;
-use SproutServices\Interfaces\ParserInterface;
+use Sprout\SproutServices\Interfaces\ContainerInterface;
+use Sprout\SproutServices\Interfaces\IdentityProviderInterface;
+use Sprout\SproutServices\Interfaces\ParserInterface;
 
 /**
  * Class that handles the registration of services to the container.

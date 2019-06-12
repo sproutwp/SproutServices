@@ -1,14 +1,14 @@
 <?php
 /**
  * @package Sprout
- * @subpackage Sprout/SproutServices
+ * @subpackage SproutServices
  * @since 1.0.0
  */
-namespace SproutServices;
+namespace Sprout\SproutServices;
 
-use SproutHelpers\Privileges;
+use Sprout\SproutHelpers\Privileges;
 
-use SproutInterfaces\ModuleInterface;
+use Sprout\SproutInterfaces\ModuleInterface;
 
 final class SproutServicesInit implements ModuleInterface
 {
