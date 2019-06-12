@@ -9,7 +9,8 @@
     ],
     "require" : {
         "sproutwp/sprout_interfaces" : "*@dev",
-        "sproutwp/sprout_privileges" : "*@dev"
+        "sproutwp/sprout_privileges" : "*@dev",
+        "sproutwp/sprout_cache" : "*@dev"
     },
     "autoload": {
         "psr-4": {
