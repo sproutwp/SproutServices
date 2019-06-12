@@ -1,5 +1,5 @@
 {
-    "name" : "sproutwp/sprout_services",
+    "name" : "sproutwp/SproutServices",
     "description" : "A service container & provider used by Sprout",
     "version" : "1.0.0-dev",
     "keywords" : [
@@ -8,8 +8,8 @@
         "wordpress service provider"
     ],
     "require" : {
-        "sproutwp/sprout_interfaces" : "*@dev",
-        "sproutwp/sprout_privileges" : "*@dev"
+        "sproutwp/SproutInterfaces" : "*@dev",
+        "sproutwp/SproutPrivileges" : "*@dev"
     },
     "autoload": {
         "psr-4": {
